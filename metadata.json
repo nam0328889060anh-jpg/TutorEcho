@@ -1,0 +1,8 @@
+{
+  "name": "TutorEcho - Spoken Reflex & Feynman English Coach",
+  "description": "Adaptive English coach for sharpening spontaneous spoken reflexes, testing conceptual depth via Feynman technique, and automated fluency diagnostics with SRS flashcards.",
+  "requestFramePermissions": [
+    "MICROPHONE"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
